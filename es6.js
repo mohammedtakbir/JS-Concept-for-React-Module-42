@@ -33,4 +33,5 @@ console.log(newNumber)
 
 //? create a new array from an older array and add an element
 const currentNumbers = [...numbers, 55]
-console.log(currentNumbers)
+// console.log(currentNumbers)
+

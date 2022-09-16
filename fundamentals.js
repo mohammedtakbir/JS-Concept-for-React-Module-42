@@ -3,7 +3,7 @@ const fatherName = 'Arnold';
 let season = 'winter';
 season = 'summer';
 
-//* 2. conditions
+//* 2. conditional statement
 //? 6 basic conditions: >, <, ===, !==, <=, >=
 //? multiple conditions: &&, ||
 
