@@ -28,8 +28,8 @@ const doMath = (num1, num2) => {
 const newNumber = [400, ...numbers, 1000]
 numbers.push(999)
 numbers.push(2222)
-console.log(numbers)
-console.log(newNumber)
+// console.log(numbers)
+// console.log(newNumber)
 
 //? create a new array from an older array and add an element
 const currentNumbers = [...numbers, 55]

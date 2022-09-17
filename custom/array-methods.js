@@ -23,6 +23,10 @@ const test = emptyArray.map(e => e);
 //* filter() 
 const priceFilter = products.filter(p => p.price <= 10000);
 // console.log(priceFilter); 
+const findN = products.filter(p => p.brand.includes('n'))
+// console.log(findN);
+const removeCasio = products.filter(p => p.brand !== 'casio');
+console.log(removeCasio);
 
 //* find()
 const findBrand = products.find(p => p.brand === 'casio');

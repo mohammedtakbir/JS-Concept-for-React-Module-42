@@ -8,7 +8,7 @@ const [x, y, ...rest] = numbers; //? variable er nam thakte pare jeta 1ta array
 // console.log(x, y, rest)
 // console.log(a, b)
 
-function boxify(num1, num2){
+function boxify(num1, num2){ 
     const num = [num1, num2]
     return num;
 }

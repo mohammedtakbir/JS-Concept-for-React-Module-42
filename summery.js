@@ -22,7 +22,7 @@
 //? optional chaining
 
 //*----------------------------
-
+//* browser API
 //? browser API
 //? local storage and session storage
 //? location API and History API

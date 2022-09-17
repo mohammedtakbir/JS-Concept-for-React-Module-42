@@ -44,7 +44,7 @@ const input = '560';
 const inputNum = +input;
 // console.log(inputNum)
 
-let isActive = false;
+let isActive = true;
 const showUser = () => console.log('display user');
 const hideUser = () => console.log('hide user');
 // isActive ? showUser() : hideUser();
